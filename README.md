@@ -6,7 +6,8 @@ MCUにはArduino Uno R4に搭載のRenesasの[R7FA4M1AB3CFM](https://akizukidens
 
 4chのシンプルなサーボモータ制御回路です。
 
-<img width="575" height="416" alt="{0E094BF4-E675-41B7-8FDE-F80BCE52A67B}" src="https://github.com/user-attachments/assets/3e7f3daa-f5a3-4d16-bbb2-107ab4c6313a" />
+<img width="531" height="435" alt="{84BBA2A5-B5AD-4F02-86B0-35FF536A6006}" src="https://github.com/user-attachments/assets/67b95c3b-d3e4-4b30-af68-585f3095ce23" />
+
 
 ファイルは[こちら](https://github.com/hosh0344/CatchRobo2025_Circuits/tree/main/DRC-SVMD2025) <br><br>
 
